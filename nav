@@ -1,0 +1,1 @@
+Git merge is a command that allows you to merge branches from Git. Merging is a common practice for developers. Whether branches are created for testing, bug fixes, or other reasons, merging commits changes to another branch. It takes the contents of a source branch and integrates it with a target branch.
